@@ -1,6 +1,0 @@
-Procedure to run the Project
-Run project color_Kmeans
-as an argument provide the file name 306 along with the model name for reference.
-
-The out put of the file will contain the dimention of the mobile Height and width.
-Color detection is done using K means  algorithm.
