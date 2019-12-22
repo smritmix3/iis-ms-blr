@@ -1,0 +1,8 @@
+# rasa train
+# rasa interactive  -m models/20190919-185625.tar.gz --endpoints endpoints.yml
+# rasa run --debug  --enable-api --log-file out.log -m models -p 5005 --connector socketio --credentials credentials.yml --endpoints endpoints.yml
+# python -m rasa_core_sdk.endpoint --actions action
+# rasa run actions --port 5057
+# docker run -p 8000:8000 rasa/duckling
+# rasa run --verbose --debug -m models -p 5007 --connector rest --credentials credentials.yml --endpoints endpoints.yml  --cors "*"  
+# http://ec2-13-59-84-230.us-east-2.compute.amazonaws.com:8000/chatUI/chatbot.html

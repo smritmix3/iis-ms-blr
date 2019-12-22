@@ -1,0 +1,1542 @@
+2019-09-19 17:37:12,600 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-09-19 17:43:44,706 [ERROR]  Transport closed @ ('127.0.0.1', 49872) and exception experienced during error handling
+2019-09-19 17:46:15,632 [ERROR]  Transport closed @ ('127.0.0.1', 50134) and exception experienced during error handling
+2019-09-19 17:52:04,469 [ERROR]  Transport closed @ ('127.0.0.1', 50626) and exception experienced during error handling
+2019-09-19 18:06:50,908 [ERROR]  Transport closed @ ('127.0.0.1', 51905) and exception experienced during error handling
+2019-09-19 18:12:32,789 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-09-19 18:14:19,607 [ERROR]  Transport closed @ ('127.0.0.1', 52517) and exception experienced during error handling
+2019-09-19 18:59:09,947 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-09-19 19:04:20,394 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-09-20 11:18:01,629 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-09-20 11:25:24,092 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-09-20 11:27:08,613 [ERROR]  Transport closed @ ('127.0.0.1', 51615) and exception experienced during error handling
+2019-09-20 12:25:31,682 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-09-20 12:31:25,276 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-09-20 12:33:09,544 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-09-20 15:30:25,703 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-09-20 15:40:43,762 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-09-23 11:48:42,393 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-09-23 11:54:45,539 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-09-23 12:21:39,360 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-09-23 12:24:38,515 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-09-23 12:48:35,539 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-09-23 12:51:55,660 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-09-23 12:53:09,982 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-09-23 13:11:23,519 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-09-23 14:46:47,445 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-09-23 15:03:13,071 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-09-23 15:04:36,206 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-09-23 15:39:05,634 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-09-23 15:43:14,237 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-09-23 15:56:05,456 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-09-23 16:07:46,907 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-09-23 18:00:05,927 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-09-23 18:15:02,382 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-09-23 18:40:16,394 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-09-24 12:12:56,650 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-09-24 12:50:02,365 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-09-24 13:08:56,375 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-09-24 13:16:18,448 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-09-24 13:19:50,439 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-09-24 13:29:30,307 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-09-24 13:34:49,290 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-09-24 14:29:28,391 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-09-27 16:37:58,069 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-09-27 17:00:00,611 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-09-27 17:09:47,578 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-09-27 17:14:44,624 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-09-27 17:18:09,502 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-09-27 17:19:59,870 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-09-29 12:17:12,948 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-09-29 12:20:58,749 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-09-29 12:22:26,644 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-09-29 12:29:17,936 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-09-29 12:30:39,553 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-09-29 12:51:39,551 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-09-29 12:54:17,708 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-09-30 12:33:01,791 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-09-30 12:56:18,732 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-09-30 13:10:29,239 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-09-30 17:29:40,421 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-09-30 17:34:06,233 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-10-01 10:24:42,358 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-10-01 10:40:59,435 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-10-01 05:32:43,303 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-10-01 07:19:22,124 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-10-01 07:34:27,991 [ERROR]  Exception occurred while handling uri: 'http://localhost:5007/webhooks/rest/webhook'
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\router.py", line 446, in _get
+    raise method_not_supported
+sanic.exceptions.MethodNotSupported: Method GET not allowed for URL /webhooks/rest/webhook
+2019-10-01 07:34:28,470 [ERROR]  Exception occurred while handling uri: 'http://localhost:5007/favicon.ico'
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /favicon.ico not found
+2019-10-01 07:34:34,008 [ERROR]  Exception occurred while handling uri: 'http://localhost:5007/'
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL / not found
+2019-10-01 07:42:42,395 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-10-01 07:43:46,378 [ERROR]  Exception occurred while handling uri: 'http://rsystem.ngrok.io/webhooks/rest/webhook'
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\router.py", line 446, in _get
+    raise method_not_supported
+sanic.exceptions.MethodNotSupported: Method GET not allowed for URL /webhooks/rest/webhook
+2019-10-01 07:43:47,358 [ERROR]  Exception occurred while handling uri: 'http://rsystem.ngrok.io/favicon.ico'
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /favicon.ico not found
+2019-10-01 08:21:10,076 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-10-01 12:02:31,023 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-10-02 16:04:41,092 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-02 16:04:44,726 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-02 16:04:45,188 [ERROR]  Exception occurred while handling uri: 'http://18.216.95.40:5007/'
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL / not found
+2019-10-05 11:50:00,800 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-07 13:32:08,279 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-10-09 06:38:14,538 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-09 09:16:42,200 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-10-09 09:50:18,639 [ERROR]  Exception occurred while handling uri: 'http://18.216.95.40:5007/'
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL / not found
+2019-10-11 15:49:12,599 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-12 17:39:18,688 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-13 15:57:38,971 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-16 06:13:28,991 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-16 11:35:36,316 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-18 03:57:31,567 [ERROR]  Exception occurred while handling uri: 'http://18.216.95.40:5007/'
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL / not found
+2019-10-19 05:34:34,925 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-20 03:08:36,957 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-23 10:41:25,674 [ERROR]  Exception occurred while handling uri: 'http://18.216.95.40:5007/'
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL / not found
+2019-10-24 02:39:15,974 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-27 19:18:30,347 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-28 13:16:05,483 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-10-28 13:39:54,146 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-10-29 09:01:10,877 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-10-30 01:07:17,777 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 02:55:12,909 [ERROR]  Exception occurred while handling uri: 'http://18.216.95.40:5007/'
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL / not found
+2019-10-30 07:55:53,093 [ERROR]  Exception occurred while handling uri: 'http:///'
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL / not found
+2019-10-30 07:55:53,199 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserError: invalid constant string
+2019-10-30 07:55:53,249 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:55:53,300 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:55:53,347 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:55:53,399 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:55:53,448 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:55:53,500 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:55:53,547 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:55:53,599 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:55:53,652 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:55:53,701 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:55:53,753 [ERROR]  Exception occurred while handling uri: 'http:///nice%20ports%2C/Tri%6Eity.txt%2ebak'
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /nice ports,/Trinity.txt.bak not found
+2019-10-30 07:55:53,803 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:55:53,851 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:55:53,901 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:55:53,949 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidURLError: invalid URL
+2019-10-30 07:55:54,001 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:55:54,048 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:55:54,099 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:55:54,148 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:55:54,199 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:55:54,252 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:55:54,299 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:55:54,348 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:55:54,401 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:55:54,454 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:58:18,097 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:58:18,172 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:58:18,246 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:58:19,853 [ERROR]  Exception occurred while handling uri: 'http:///'
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL / not found
+2019-10-30 07:58:20,041 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserError: invalid constant string
+2019-10-30 07:58:20,127 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:58:20,202 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:58:20,280 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:58:20,355 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:58:20,433 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:58:20,519 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:58:20,597 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:58:20,682 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:58:20,758 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:58:20,835 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:58:20,912 [ERROR]  Exception occurred while handling uri: 'http:///nice%20ports%2C/Tri%6Eity.txt%2ebak'
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /nice ports,/Trinity.txt.bak not found
+2019-10-30 07:58:20,999 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:58:21,074 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:58:21,148 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:58:21,222 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidURLError: invalid URL
+2019-10-30 07:58:21,309 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:58:21,385 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:58:21,461 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:58:21,537 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:58:21,615 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:58:21,695 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:58:21,768 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:58:21,844 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:58:21,916 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:58:21,992 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:58:22,069 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:58:22,143 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:58:22,218 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:58:22,297 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:58:22,370 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 07:58:22,445 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 08:00:45,118 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 08:01:16,320 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-10-30 09:40:58,457 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-11-01 07:25:55,601 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-11-02 05:53:03,763 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-11-02 14:55:26,080 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-11-02 20:07:03,939 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-11-03 23:41:09,033 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-11-04 13:24:16,233 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-11-04 15:05:11,960 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-11-05 09:49:30,443 [ERROR]  Exception occurred while handling uri: 'http://18.216.95.40:5007/'
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL / not found
+2019-11-07 00:28:34,943 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-11-08 05:43:53,482 [ERROR]  Exception occurred while handling uri: 'http://rsystem.ngrok.io/'
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL / not found
+2019-11-10 22:09:56,179 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-11-10 22:09:56,476 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-11-12 14:30:49,752 [ERROR]  Exception occurred while handling uri: 'http://18.216.95.40:5007/'
+Traceback (most recent call last):
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "c:\program files\anaconda\envs\py37\lib\site-packages\sanic\router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL / not found
+2019-11-22 11:41:18,044 [DEBUG]  CORS: Configuring CORS with resources: {'/*': {'origins': ['.*'], 'methods': 'DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT', 'allow_headers': ['.*'], 'expose_headers': None, 'supports_credentials': False, 'max_age': None, 'send_wildcard': False, 'automatic_options': True, 'vary_header': True, 'resources': {'/*': {'origins': ['*']}}, 'intercept_exceptions': True, 'always_send': True}}
+2019-11-22 11:41:18,048 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-11-22 11:41:18,050 [INFO ]  Starting Rasa server on http://localhost:5007
+2019-11-22 11:41:18,056 [INFO ]  Enabling coroutine debugging. Loop id 1369887436640.
+2019-11-22 11:41:18,235 [DEBUG]  Extracted model to 'C:\Users\SMRITH~1.FRE\AppData\Local\Temp\tmpzkh6l8y6'.
+2019-11-22 11:41:51,595 [INFO ]  Added 'SpacyNLP' to component cache. Key 'SpacyNLP-en_core_web_md'.
+2019-11-22 11:41:52,161 [DEBUG]  Connected to InMemoryTrackerStore.
+2019-11-22 11:41:52,250 [DEBUG]  Extracted model to 'C:\Users\SMRITH~1.FRE\AppData\Local\Temp\tmp_03q3s51'.
+2019-11-22 11:41:52,303 [DEBUG]  Using yaml library: c:\users\smrithi.fredric\appdata\local\continuum\anaconda3\envs\py37\lib\site-packages\ruamel\yaml\__init__.py
+2019-11-22 12:07:10,085 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\users\smrithi.fredric\appdata\local\continuum\anaconda3\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-11-22 12:07:10,288 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\users\smrithi.fredric\appdata\local\continuum\anaconda3\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-11-22 12:07:22,015 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\users\smrithi.fredric\appdata\local\continuum\anaconda3\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-11-22 12:07:22,265 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\users\smrithi.fredric\appdata\local\continuum\anaconda3\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-11-22 12:07:56,438 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\users\smrithi.fredric\appdata\local\continuum\anaconda3\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-11-22 12:07:56,443 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\users\smrithi.fredric\appdata\local\continuum\anaconda3\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-11-22 12:07:56,696 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\users\smrithi.fredric\appdata\local\continuum\anaconda3\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-11-22 12:08:01,030 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\users\smrithi.fredric\appdata\local\continuum\anaconda3\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-11-22 12:08:01,031 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\users\smrithi.fredric\appdata\local\continuum\anaconda3\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-11-22 12:08:01,274 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\users\smrithi.fredric\appdata\local\continuum\anaconda3\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-11-22 12:08:07,652 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\users\smrithi.fredric\appdata\local\continuum\anaconda3\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-11-22 12:08:07,656 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\users\smrithi.fredric\appdata\local\continuum\anaconda3\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-11-22 12:08:07,876 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\users\smrithi.fredric\appdata\local\continuum\anaconda3\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-11-22 12:08:45,060 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\users\smrithi.fredric\appdata\local\continuum\anaconda3\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-11-22 12:08:45,062 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\users\smrithi.fredric\appdata\local\continuum\anaconda3\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-11-22 12:08:45,309 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\users\smrithi.fredric\appdata\local\continuum\anaconda3\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-11-22 12:09:15,619 [DEBUG]  Created a new lock for conversation '895'
+2019-11-22 12:09:15,622 [DEBUG]  Creating a new tracker for id '895'.
+2019-11-22 12:09:15,625 [DEBUG]  Received user message '/stop' with intent '{'name': 'stop', 'confidence': 1.0}' and entities '[]'
+2019-11-22 12:09:15,627 [DEBUG]  Logged UserUtterance - tracker now has 2 events
+2019-11-22 12:09:16,458 [DEBUG]  NLU confidence threshold met, confidence of fallback action set to core threshold (0.3).
+2019-11-22 12:09:16,463 [DEBUG]  Current tracker state [None, None, None, None, None, None, None, None, {'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}]
+2019-11-22 12:09:16,469 [DEBUG]  There is a memorised next action '3'
+2019-11-22 12:09:16,470 [DEBUG]  There is no active form
+2019-11-22 12:09:16,474 [DEBUG]  Predicted next action using policy_2_MemoizationPolicy
+2019-11-22 12:09:16,475 [DEBUG]  Predicted next action 'action_deactivate_form' with confidence 1.00.
+2019-11-22 12:09:16,479 [DEBUG]  Action 'action_deactivate_form' ended with events '['Form(None)', 'SlotSet(key: requested_slot, value: None)']'
+2019-11-22 12:09:16,484 [DEBUG]  Current slot values: 
+	Phone_ID: None
+	esi_forge_check_qc_verified_name: None
+	esi_forge_failedqccolorissue: No
+	esi_forge_failedqcdimensionsissue: No
+	esi_forge_failedqcheatissue: No
+	esi_forge_failedqcreasons: None
+	esi_forge_failedqcreasonsfromdate: None
+	esi_forge_failedqcreasonstodate: None
+	esi_forge_issuetype_value: Heat
+	from: None
+	modelNo: None
+	requested_slot: None
+	to: None
+2019-11-22 12:09:16,499 [DEBUG]  NLU confidence threshold met, confidence of fallback action set to core threshold (0.3).
+2019-11-22 12:09:16,505 [DEBUG]  Current tracker state [None, None, None, None, None, None, None, {'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_deactivate_form': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}]
+2019-11-22 12:09:16,506 [DEBUG]  There is a memorised next action '41'
+2019-11-22 12:09:16,510 [DEBUG]  There is no active form
+2019-11-22 12:09:16,514 [DEBUG]  Predicted next action using policy_2_MemoizationPolicy
+2019-11-22 12:09:16,518 [DEBUG]  Predicted next action 'utter_greet' with confidence 1.00.
+2019-11-22 12:09:16,679 [DEBUG]  NLU confidence threshold met, confidence of fallback action set to core threshold (0.3).
+2019-11-22 12:09:16,683 [DEBUG]  Current tracker state [None, None, None, None, None, None, {'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_deactivate_form': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'prev_utter_greet': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}]
+2019-11-22 12:09:16,686 [DEBUG]  There is a memorised next action '42'
+2019-11-22 12:09:16,686 [DEBUG]  There is no active form
+2019-11-22 12:09:16,693 [DEBUG]  Predicted next action using policy_2_MemoizationPolicy
+2019-11-22 12:09:16,695 [DEBUG]  Predicted next action 'utter_greet1' with confidence 1.00.
+2019-11-22 12:09:16,696 [DEBUG]  Action 'utter_greet1' ended with events '['BotUttered(text: I would be happy to assist you., data: {"elements": null, "quick_replies": null, "buttons": null, "attachment": null, "image": null, "custom": null}, metadata: {})']'
+2019-11-22 12:09:16,709 [DEBUG]  NLU confidence threshold met, confidence of fallback action set to core threshold (0.3).
+2019-11-22 12:09:16,714 [DEBUG]  Current tracker state [None, None, None, None, None, {'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_deactivate_form': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'prev_utter_greet': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_utter_greet1': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}]
+2019-11-22 12:09:16,719 [DEBUG]  There is a memorised next action '20'
+2019-11-22 12:09:16,721 [DEBUG]  There is no active form
+2019-11-22 12:09:16,722 [DEBUG]  Predicted next action using policy_2_MemoizationPolicy
+2019-11-22 12:09:16,723 [DEBUG]  Predicted next action 'action_slot_cancel' with confidence 1.00.
+2019-11-22 12:09:16,727 [DEBUG]  Calling action endpoint to run action 'action_slot_cancel'.
+2019-11-22 12:09:19,011 [DEBUG]  Action 'action_slot_cancel' ended with events '['Restarted()']'
+2019-11-22 12:09:19,016 [DEBUG]  Current slot values: 
+	Phone_ID: None
+	esi_forge_check_qc_verified_name: None
+	esi_forge_failedqccolorissue: No
+	esi_forge_failedqcdimensionsissue: No
+	esi_forge_failedqcheatissue: No
+	esi_forge_failedqcreasons: None
+	esi_forge_failedqcreasonsfromdate: None
+	esi_forge_failedqcreasonstodate: None
+	esi_forge_issuetype_value: Heat
+	from: None
+	modelNo: None
+	requested_slot: None
+	to: None
+2019-11-22 12:09:19,025 [DEBUG]  Predicted next action 'action_listen' with confidence 1.00.
+2019-11-22 12:09:19,026 [DEBUG]  Action 'action_listen' ended with events '[]'
+2019-11-22 12:09:19,031 [DEBUG]  Deleted lock for conversation '895' (unused)
+2019-11-22 12:09:32,416 [DEBUG]  Created a new lock for conversation '640'
+2019-11-22 12:09:32,420 [DEBUG]  Creating a new tracker for id '640'.
+2019-11-22 12:09:32,637 [DEBUG]  Received user message 'hi' with intent '{'name': 'greet', 'confidence': 0.9008244276046753}' and entities '[]'
+2019-11-22 12:09:32,640 [DEBUG]  Logged UserUtterance - tracker now has 2 events
+2019-11-22 12:09:32,651 [DEBUG]  NLU confidence threshold met, confidence of fallback action set to core threshold (0.3).
+2019-11-22 12:09:32,655 [DEBUG]  Current tracker state [None, None, None, None, None, None, None, None, {'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'intent_greet': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}]
+2019-11-22 12:09:32,656 [DEBUG]  There is a memorised next action '41'
+2019-11-22 12:09:32,660 [DEBUG]  There is no active form
+2019-11-22 12:09:32,660 [DEBUG]  Predicted next action using policy_2_MemoizationPolicy
+2019-11-22 12:09:32,666 [DEBUG]  Predicted next action 'utter_greet' with confidence 1.00.
+2019-11-22 12:09:32,709 [DEBUG]  NLU confidence threshold met, confidence of fallback action set to core threshold (0.3).
+2019-11-22 12:09:32,713 [DEBUG]  Current tracker state [None, None, None, None, None, None, None, {'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'intent_greet': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'prev_utter_greet': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'intent_greet': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}]
+2019-11-22 12:09:32,717 [DEBUG]  There is a memorised next action '42'
+2019-11-22 12:09:32,717 [DEBUG]  There is no active form
+2019-11-22 12:09:32,722 [DEBUG]  Predicted next action using policy_2_MemoizationPolicy
+2019-11-22 12:09:32,723 [DEBUG]  Predicted next action 'utter_greet1' with confidence 1.00.
+2019-11-22 12:09:32,723 [DEBUG]  Action 'utter_greet1' ended with events '['BotUttered(text: How can I assist you?., data: {"elements": null, "quick_replies": null, "buttons": null, "attachment": null, "image": null, "custom": null}, metadata: {})']'
+2019-11-22 12:09:32,731 [DEBUG]  NLU confidence threshold met, confidence of fallback action set to core threshold (0.3).
+2019-11-22 12:09:32,735 [DEBUG]  Current tracker state [None, None, None, None, None, None, {'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'intent_greet': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'prev_utter_greet': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'intent_greet': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'intent_greet': 1.0, 'prev_utter_greet1': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}]
+2019-11-22 12:09:32,737 [DEBUG]  There is a memorised next action '0'
+2019-11-22 12:09:32,737 [DEBUG]  There is no active form
+2019-11-22 12:09:32,737 [DEBUG]  Predicted next action using policy_2_MemoizationPolicy
+2019-11-22 12:09:32,742 [DEBUG]  Predicted next action 'action_listen' with confidence 1.00.
+2019-11-22 12:09:32,742 [DEBUG]  Action 'action_listen' ended with events '[]'
+2019-11-22 12:09:32,742 [DEBUG]  Deleted lock for conversation '640' (unused)
+2019-11-22 12:10:45,915 [DEBUG]  Created a new lock for conversation '640'
+2019-11-22 12:10:45,921 [DEBUG]  Recreating tracker for id '640'
+2019-11-22 12:10:45,958 [DEBUG]  Received user message 'total product list' with intent '{'name': 'esi_forge_get_total_product_count_intent', 'confidence': 0.9646613597869873}' and entities '[]'
+2019-11-22 12:10:45,967 [DEBUG]  Logged UserUtterance - tracker now has 8 events
+2019-11-22 12:10:45,981 [DEBUG]  NLU confidence threshold met, confidence of fallback action set to core threshold (0.3).
+2019-11-22 12:10:45,986 [DEBUG]  Current tracker state [None, None, None, None, None, {'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'intent_greet': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'prev_utter_greet': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'intent_greet': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'intent_greet': 1.0, 'prev_utter_greet1': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'intent_esi_forge_get_total_product_count_intent': 1.0}]
+2019-11-22 12:10:45,996 [DEBUG]  There is no memorised next action
+2019-11-22 12:10:45,996 [DEBUG]  There is no active form
+2019-11-22 12:10:46,001 [DEBUG]  Predicted next action using policy_0_KerasPolicy
+2019-11-22 12:10:46,004 [DEBUG]  Predicted next action 'action_esi_forge_get_all_products' with confidence 1.00.
+2019-11-22 12:10:46,007 [DEBUG]  Calling action endpoint to run action 'action_esi_forge_get_all_products'.
+2019-11-22 12:10:48,240 [DEBUG]  Action 'action_esi_forge_get_all_products' ended with events '['BotUttered(text: Sorry for the inconvenience, data: {"elements": null, "quick_replies": null, "buttons": null, "attachment": null, "image": null, "custom": null}, metadata: {})']'
+2019-11-22 12:10:48,246 [DEBUG]  Current slot values: 
+	Phone_ID: None
+	esi_forge_check_qc_verified_name: None
+	esi_forge_failedqccolorissue: No
+	esi_forge_failedqcdimensionsissue: No
+	esi_forge_failedqcheatissue: No
+	esi_forge_failedqcreasons: None
+	esi_forge_failedqcreasonsfromdate: None
+	esi_forge_failedqcreasonstodate: None
+	esi_forge_issuetype_value: Heat
+	from: None
+	modelNo: None
+	requested_slot: None
+	to: None
+2019-11-22 12:10:48,269 [DEBUG]  NLU confidence threshold met, confidence of fallback action set to core threshold (0.3).
+2019-11-22 12:10:48,279 [DEBUG]  Current tracker state [None, None, None, None, {'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'intent_greet': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'prev_utter_greet': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'intent_greet': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'intent_greet': 1.0, 'prev_utter_greet1': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'intent_esi_forge_get_total_product_count_intent': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_esi_forge_get_all_products': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'intent_esi_forge_get_total_product_count_intent': 1.0}]
+2019-11-22 12:10:48,295 [DEBUG]  There is no memorised next action
+2019-11-22 12:10:48,300 [DEBUG]  There is no active form
+2019-11-22 12:10:48,304 [DEBUG]  Predicted next action using policy_0_KerasPolicy
+2019-11-22 12:10:48,308 [DEBUG]  Predicted next action 'action_listen' with confidence 1.00.
+2019-11-22 12:10:48,315 [DEBUG]  Action 'action_listen' ended with events '[]'
+2019-11-22 12:10:48,319 [DEBUG]  Deleted lock for conversation '640' (unused)
+2019-11-22 12:10:59,739 [DEBUG]  Created a new lock for conversation '640'
+2019-11-22 12:10:59,742 [DEBUG]  Recreating tracker for id '640'
+2019-11-22 12:10:59,765 [DEBUG]  Received user message 'total product' with intent '{'name': 'esi_forge_get_total_product_count_intent', 'confidence': 0.9646613597869873}' and entities '[]'
+2019-11-22 12:10:59,769 [DEBUG]  Logged UserUtterance - tracker now has 12 events
+2019-11-22 12:10:59,782 [DEBUG]  NLU confidence threshold met, confidence of fallback action set to core threshold (0.3).
+2019-11-22 12:10:59,785 [DEBUG]  Current tracker state [None, None, None, {'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'intent_greet': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'prev_utter_greet': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'intent_greet': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'intent_greet': 1.0, 'prev_utter_greet1': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'intent_esi_forge_get_total_product_count_intent': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_esi_forge_get_all_products': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'intent_esi_forge_get_total_product_count_intent': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'intent_esi_forge_get_total_product_count_intent': 1.0}]
+2019-11-22 12:10:59,792 [DEBUG]  There is no memorised next action
+2019-11-22 12:10:59,797 [DEBUG]  There is no active form
+2019-11-22 12:10:59,800 [DEBUG]  Predicted next action using policy_0_KerasPolicy
+2019-11-22 12:10:59,802 [DEBUG]  Predicted next action 'action_esi_forge_get_all_products' with confidence 1.00.
+2019-11-22 12:10:59,803 [DEBUG]  Calling action endpoint to run action 'action_esi_forge_get_all_products'.
+2019-11-22 12:11:06,078 [DEBUG]  Action 'action_esi_forge_get_all_products' ended with events '['BotUttered(text: We have total 45 product., data: {"elements": null, "quick_replies": null, "buttons": null, "attachment": null, "image": null, "custom": null}, metadata: {"getTotalProductCountVar": "45"})']'
+2019-11-22 12:11:06,080 [DEBUG]  Current slot values: 
+	Phone_ID: None
+	esi_forge_check_qc_verified_name: None
+	esi_forge_failedqccolorissue: No
+	esi_forge_failedqcdimensionsissue: No
+	esi_forge_failedqcheatissue: No
+	esi_forge_failedqcreasons: None
+	esi_forge_failedqcreasonsfromdate: None
+	esi_forge_failedqcreasonstodate: None
+	esi_forge_issuetype_value: Heat
+	from: None
+	modelNo: None
+	requested_slot: None
+	to: None
+2019-11-22 12:11:06,098 [DEBUG]  NLU confidence threshold met, confidence of fallback action set to core threshold (0.3).
+2019-11-22 12:11:06,106 [DEBUG]  Current tracker state [None, None, {'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'intent_greet': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'prev_utter_greet': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'intent_greet': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'intent_greet': 1.0, 'prev_utter_greet1': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'intent_esi_forge_get_total_product_count_intent': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_esi_forge_get_all_products': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'intent_esi_forge_get_total_product_count_intent': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'intent_esi_forge_get_total_product_count_intent': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_esi_forge_get_all_products': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'intent_esi_forge_get_total_product_count_intent': 1.0}]
+2019-11-22 12:11:06,117 [DEBUG]  There is no memorised next action
+2019-11-22 12:11:06,121 [DEBUG]  There is no active form
+2019-11-22 12:11:06,121 [DEBUG]  Predicted next action using policy_0_KerasPolicy
+2019-11-22 12:11:06,125 [DEBUG]  Predicted next action 'action_listen' with confidence 1.00.
+2019-11-22 12:11:06,131 [DEBUG]  Action 'action_listen' ended with events '[]'
+2019-11-22 12:11:06,131 [DEBUG]  Deleted lock for conversation '640' (unused)
+2019-11-22 12:12:04,918 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\users\smrithi.fredric\appdata\local\continuum\anaconda3\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-11-22 12:12:05,170 [ERROR]  Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "c:\users\smrithi.fredric\appdata\local\continuum\anaconda3\envs\py37\lib\site-packages\sanic\server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2019-11-22 12:16:46,559 [ERROR]  Exception occurred while handling uri: 'http://localhost:5007/rest/webhook'
+Traceback (most recent call last):
+  File "c:\users\smrithi.fredric\appdata\local\continuum\anaconda3\envs\py37\lib\site-packages\sanic\app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "c:\users\smrithi.fredric\appdata\local\continuum\anaconda3\envs\py37\lib\site-packages\sanic\router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "c:\users\smrithi.fredric\appdata\local\continuum\anaconda3\envs\py37\lib\site-packages\sanic\router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /rest/webhook not found
+2019-11-22 12:16:56,726 [ERROR]  Exception occurred while handling uri: 'http://localhost:5007/rest/webhook'
+Traceback (most recent call last):
+  File "c:\users\smrithi.fredric\appdata\local\continuum\anaconda3\envs\py37\lib\site-packages\sanic\app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "c:\users\smrithi.fredric\appdata\local\continuum\anaconda3\envs\py37\lib\site-packages\sanic\router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "c:\users\smrithi.fredric\appdata\local\continuum\anaconda3\envs\py37\lib\site-packages\sanic\router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /rest/webhook not found
+2019-11-22 12:18:09,711 [DEBUG]  Created a new lock for conversation '393'
+2019-11-22 12:18:09,719 [DEBUG]  Creating a new tracker for id '393'.
+2019-11-22 12:18:09,727 [DEBUG]  Received user message '/stop' with intent '{'name': 'stop', 'confidence': 1.0}' and entities '[]'
+2019-11-22 12:18:09,733 [DEBUG]  Logged UserUtterance - tracker now has 2 events
+2019-11-22 12:18:09,757 [DEBUG]  NLU confidence threshold met, confidence of fallback action set to core threshold (0.3).
+2019-11-22 12:18:09,765 [DEBUG]  Current tracker state [None, None, None, None, None, None, None, None, {'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}]
+2019-11-22 12:18:09,778 [DEBUG]  There is a memorised next action '3'
+2019-11-22 12:18:09,784 [DEBUG]  There is no active form
+2019-11-22 12:18:09,790 [DEBUG]  Predicted next action using policy_2_MemoizationPolicy
+2019-11-22 12:18:09,797 [DEBUG]  Predicted next action 'action_deactivate_form' with confidence 1.00.
+2019-11-22 12:18:09,801 [DEBUG]  Action 'action_deactivate_form' ended with events '['Form(None)', 'SlotSet(key: requested_slot, value: None)']'
+2019-11-22 12:18:09,805 [DEBUG]  Current slot values: 
+	Phone_ID: None
+	esi_forge_check_qc_verified_name: None
+	esi_forge_failedqccolorissue: No
+	esi_forge_failedqcdimensionsissue: No
+	esi_forge_failedqcheatissue: No
+	esi_forge_failedqcreasons: None
+	esi_forge_failedqcreasonsfromdate: None
+	esi_forge_failedqcreasonstodate: None
+	esi_forge_issuetype_value: Heat
+	from: None
+	modelNo: None
+	requested_slot: None
+	to: None
+2019-11-22 12:18:09,824 [DEBUG]  NLU confidence threshold met, confidence of fallback action set to core threshold (0.3).
+2019-11-22 12:18:09,831 [DEBUG]  Current tracker state [None, None, None, None, None, None, None, {'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_deactivate_form': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}]
+2019-11-22 12:18:09,834 [DEBUG]  There is a memorised next action '41'
+2019-11-22 12:18:09,837 [DEBUG]  There is no active form
+2019-11-22 12:18:09,839 [DEBUG]  Predicted next action using policy_2_MemoizationPolicy
+2019-11-22 12:18:09,839 [DEBUG]  Predicted next action 'utter_greet' with confidence 1.00.
+2019-11-22 12:18:09,883 [DEBUG]  NLU confidence threshold met, confidence of fallback action set to core threshold (0.3).
+2019-11-22 12:18:09,888 [DEBUG]  Current tracker state [None, None, None, None, None, None, {'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_deactivate_form': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'prev_utter_greet': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}]
+2019-11-22 12:18:09,896 [DEBUG]  There is a memorised next action '42'
+2019-11-22 12:18:09,898 [DEBUG]  There is no active form
+2019-11-22 12:18:09,902 [DEBUG]  Predicted next action using policy_2_MemoizationPolicy
+2019-11-22 12:18:09,905 [DEBUG]  Predicted next action 'utter_greet1' with confidence 1.00.
+2019-11-22 12:18:09,907 [DEBUG]  Action 'utter_greet1' ended with events '['BotUttered(text: How may I help you today?, data: {"elements": null, "quick_replies": null, "buttons": null, "attachment": null, "image": null, "custom": null}, metadata: {})']'
+2019-11-22 12:18:09,921 [DEBUG]  NLU confidence threshold met, confidence of fallback action set to core threshold (0.3).
+2019-11-22 12:18:09,925 [DEBUG]  Current tracker state [None, None, None, None, None, {'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_deactivate_form': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'prev_utter_greet': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_utter_greet1': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}]
+2019-11-22 12:18:09,931 [DEBUG]  There is a memorised next action '20'
+2019-11-22 12:18:09,945 [DEBUG]  There is no active form
+2019-11-22 12:18:09,946 [DEBUG]  Predicted next action using policy_2_MemoizationPolicy
+2019-11-22 12:18:09,952 [DEBUG]  Predicted next action 'action_slot_cancel' with confidence 1.00.
+2019-11-22 12:18:09,955 [DEBUG]  Calling action endpoint to run action 'action_slot_cancel'.
+2019-11-22 12:18:12,046 [DEBUG]  Action 'action_slot_cancel' ended with events '['Restarted()']'
+2019-11-22 12:18:12,047 [DEBUG]  Current slot values: 
+	Phone_ID: None
+	esi_forge_check_qc_verified_name: None
+	esi_forge_failedqccolorissue: No
+	esi_forge_failedqcdimensionsissue: No
+	esi_forge_failedqcheatissue: No
+	esi_forge_failedqcreasons: None
+	esi_forge_failedqcreasonsfromdate: None
+	esi_forge_failedqcreasonstodate: None
+	esi_forge_issuetype_value: Heat
+	from: None
+	modelNo: None
+	requested_slot: None
+	to: None
+2019-11-22 12:18:12,061 [DEBUG]  Predicted next action 'action_listen' with confidence 1.00.
+2019-11-22 12:18:12,063 [DEBUG]  Action 'action_listen' ended with events '[]'
+2019-11-22 12:18:12,067 [DEBUG]  Deleted lock for conversation '393' (unused)
+2019-11-22 12:19:09,997 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-11-22 12:19:42,297 [DEBUG]  Created a new lock for conversation '109'
+2019-11-22 12:19:42,299 [DEBUG]  Creating a new tracker for id '109'.
+2019-11-22 12:19:42,299 [DEBUG]  Received user message '/stop' with intent '{'name': 'stop', 'confidence': 1.0}' and entities '[]'
+2019-11-22 12:19:42,308 [DEBUG]  Logged UserUtterance - tracker now has 2 events
+2019-11-22 12:19:42,320 [DEBUG]  NLU confidence threshold met, confidence of fallback action set to core threshold (0.3).
+2019-11-22 12:19:42,324 [DEBUG]  Current tracker state [None, None, None, None, None, None, None, None, {'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}]
+2019-11-22 12:19:42,330 [DEBUG]  There is a memorised next action '3'
+2019-11-22 12:19:42,332 [DEBUG]  There is no active form
+2019-11-22 12:19:42,335 [DEBUG]  Predicted next action using policy_2_MemoizationPolicy
+2019-11-22 12:19:42,340 [DEBUG]  Predicted next action 'action_deactivate_form' with confidence 1.00.
+2019-11-22 12:19:42,347 [DEBUG]  Action 'action_deactivate_form' ended with events '['Form(None)', 'SlotSet(key: requested_slot, value: None)']'
+2019-11-22 12:19:42,347 [DEBUG]  Current slot values: 
+	Phone_ID: None
+	esi_forge_check_qc_verified_name: None
+	esi_forge_failedqccolorissue: No
+	esi_forge_failedqcdimensionsissue: No
+	esi_forge_failedqcheatissue: No
+	esi_forge_failedqcreasons: None
+	esi_forge_failedqcreasonsfromdate: None
+	esi_forge_failedqcreasonstodate: None
+	esi_forge_issuetype_value: Heat
+	from: None
+	modelNo: None
+	requested_slot: None
+	to: None
+2019-11-22 12:19:42,365 [DEBUG]  NLU confidence threshold met, confidence of fallback action set to core threshold (0.3).
+2019-11-22 12:19:42,368 [DEBUG]  Current tracker state [None, None, None, None, None, None, None, {'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_deactivate_form': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}]
+2019-11-22 12:19:42,372 [DEBUG]  There is a memorised next action '41'
+2019-11-22 12:19:42,373 [DEBUG]  There is no active form
+2019-11-22 12:19:42,376 [DEBUG]  Predicted next action using policy_2_MemoizationPolicy
+2019-11-22 12:19:42,381 [DEBUG]  Predicted next action 'utter_greet' with confidence 1.00.
+2019-11-22 12:19:42,426 [DEBUG]  NLU confidence threshold met, confidence of fallback action set to core threshold (0.3).
+2019-11-22 12:19:42,432 [DEBUG]  Current tracker state [None, None, None, None, None, None, {'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_deactivate_form': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'prev_utter_greet': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}]
+2019-11-22 12:19:42,439 [DEBUG]  There is a memorised next action '42'
+2019-11-22 12:19:42,442 [DEBUG]  There is no active form
+2019-11-22 12:19:42,445 [DEBUG]  Predicted next action using policy_2_MemoizationPolicy
+2019-11-22 12:19:42,446 [DEBUG]  Predicted next action 'utter_greet1' with confidence 1.00.
+2019-11-22 12:19:42,450 [DEBUG]  Action 'utter_greet1' ended with events '['BotUttered(text: How may I help you today?, data: {"elements": null, "quick_replies": null, "buttons": null, "attachment": null, "image": null, "custom": null}, metadata: {})']'
+2019-11-22 12:19:42,457 [DEBUG]  NLU confidence threshold met, confidence of fallback action set to core threshold (0.3).
+2019-11-22 12:19:42,469 [DEBUG]  Current tracker state [None, None, None, None, None, {'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_deactivate_form': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'prev_utter_greet': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_utter_greet1': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}]
+2019-11-22 12:19:42,472 [DEBUG]  There is a memorised next action '20'
+2019-11-22 12:19:42,478 [DEBUG]  There is no active form
+2019-11-22 12:19:42,482 [DEBUG]  Predicted next action using policy_2_MemoizationPolicy
+2019-11-22 12:19:42,483 [DEBUG]  Predicted next action 'action_slot_cancel' with confidence 1.00.
+2019-11-22 12:19:42,488 [DEBUG]  Calling action endpoint to run action 'action_slot_cancel'.
+2019-11-22 12:19:44,566 [DEBUG]  Action 'action_slot_cancel' ended with events '['Restarted()']'
+2019-11-22 12:19:44,570 [DEBUG]  Current slot values: 
+	Phone_ID: None
+	esi_forge_check_qc_verified_name: None
+	esi_forge_failedqccolorissue: No
+	esi_forge_failedqcdimensionsissue: No
+	esi_forge_failedqcheatissue: No
+	esi_forge_failedqcreasons: None
+	esi_forge_failedqcreasonsfromdate: None
+	esi_forge_failedqcreasonstodate: None
+	esi_forge_issuetype_value: Heat
+	from: None
+	modelNo: None
+	requested_slot: None
+	to: None
+2019-11-22 12:19:44,576 [DEBUG]  Predicted next action 'action_listen' with confidence 1.00.
+2019-11-22 12:19:44,576 [DEBUG]  Action 'action_listen' ended with events '[]'
+2019-11-22 12:19:44,580 [DEBUG]  Deleted lock for conversation '109' (unused)
+2019-11-22 12:19:59,472 [DEBUG]  Created a new lock for conversation '101'
+2019-11-22 12:19:59,475 [DEBUG]  Creating a new tracker for id '101'.
+2019-11-22 12:19:59,479 [DEBUG]  Received user message '/stop' with intent '{'name': 'stop', 'confidence': 1.0}' and entities '[]'
+2019-11-22 12:19:59,482 [DEBUG]  Logged UserUtterance - tracker now has 2 events
+2019-11-22 12:19:59,492 [DEBUG]  NLU confidence threshold met, confidence of fallback action set to core threshold (0.3).
+2019-11-22 12:19:59,497 [DEBUG]  Current tracker state [None, None, None, None, None, None, None, None, {'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}]
+2019-11-22 12:19:59,502 [DEBUG]  There is a memorised next action '3'
+2019-11-22 12:19:59,506 [DEBUG]  There is no active form
+2019-11-22 12:19:59,509 [DEBUG]  Predicted next action using policy_2_MemoizationPolicy
+2019-11-22 12:19:59,511 [DEBUG]  Predicted next action 'action_deactivate_form' with confidence 1.00.
+2019-11-22 12:19:59,514 [DEBUG]  Action 'action_deactivate_form' ended with events '['Form(None)', 'SlotSet(key: requested_slot, value: None)']'
+2019-11-22 12:19:59,518 [DEBUG]  Current slot values: 
+	Phone_ID: None
+	esi_forge_check_qc_verified_name: None
+	esi_forge_failedqccolorissue: No
+	esi_forge_failedqcdimensionsissue: No
+	esi_forge_failedqcheatissue: No
+	esi_forge_failedqcreasons: None
+	esi_forge_failedqcreasonsfromdate: None
+	esi_forge_failedqcreasonstodate: None
+	esi_forge_issuetype_value: Heat
+	from: None
+	modelNo: None
+	requested_slot: None
+	to: None
+2019-11-22 12:19:59,530 [DEBUG]  NLU confidence threshold met, confidence of fallback action set to core threshold (0.3).
+2019-11-22 12:19:59,534 [DEBUG]  Current tracker state [None, None, None, None, None, None, None, {'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_deactivate_form': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}]
+2019-11-22 12:19:59,543 [DEBUG]  There is a memorised next action '41'
+2019-11-22 12:19:59,546 [DEBUG]  There is no active form
+2019-11-22 12:19:59,548 [DEBUG]  Predicted next action using policy_2_MemoizationPolicy
+2019-11-22 12:19:59,552 [DEBUG]  Predicted next action 'utter_greet' with confidence 1.00.
+2019-11-22 12:19:59,634 [DEBUG]  NLU confidence threshold met, confidence of fallback action set to core threshold (0.3).
+2019-11-22 12:19:59,640 [DEBUG]  Current tracker state [None, None, None, None, None, None, {'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_deactivate_form': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'prev_utter_greet': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}]
+2019-11-22 12:19:59,652 [DEBUG]  There is a memorised next action '42'
+2019-11-22 12:19:59,659 [DEBUG]  There is no active form
+2019-11-22 12:19:59,663 [DEBUG]  Predicted next action using policy_2_MemoizationPolicy
+2019-11-22 12:19:59,667 [DEBUG]  Predicted next action 'utter_greet1' with confidence 1.00.
+2019-11-22 12:19:59,673 [DEBUG]  Action 'utter_greet1' ended with events '['BotUttered(text: How may I help you?, data: {"elements": null, "quick_replies": null, "buttons": null, "attachment": null, "image": null, "custom": null}, metadata: {})']'
+2019-11-22 12:19:59,692 [DEBUG]  NLU confidence threshold met, confidence of fallback action set to core threshold (0.3).
+2019-11-22 12:19:59,697 [DEBUG]  Current tracker state [None, None, None, None, None, {'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_deactivate_form': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'prev_utter_greet': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_utter_greet1': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}]
+2019-11-22 12:19:59,705 [DEBUG]  There is a memorised next action '20'
+2019-11-22 12:19:59,708 [DEBUG]  There is no active form
+2019-11-22 12:19:59,711 [DEBUG]  Predicted next action using policy_2_MemoizationPolicy
+2019-11-22 12:19:59,714 [DEBUG]  Predicted next action 'action_slot_cancel' with confidence 1.00.
+2019-11-22 12:19:59,716 [DEBUG]  Calling action endpoint to run action 'action_slot_cancel'.
+2019-11-22 12:20:01,826 [DEBUG]  Action 'action_slot_cancel' ended with events '['Restarted()']'
+2019-11-22 12:20:01,830 [DEBUG]  Current slot values: 
+	Phone_ID: None
+	esi_forge_check_qc_verified_name: None
+	esi_forge_failedqccolorissue: No
+	esi_forge_failedqcdimensionsissue: No
+	esi_forge_failedqcheatissue: No
+	esi_forge_failedqcreasons: None
+	esi_forge_failedqcreasonsfromdate: None
+	esi_forge_failedqcreasonstodate: None
+	esi_forge_issuetype_value: Heat
+	from: None
+	modelNo: None
+	requested_slot: None
+	to: None
+2019-11-22 12:20:01,836 [DEBUG]  Predicted next action 'action_listen' with confidence 1.00.
+2019-11-22 12:20:01,841 [DEBUG]  Action 'action_listen' ended with events '[]'
+2019-11-22 12:20:01,844 [DEBUG]  Deleted lock for conversation '101' (unused)
+2019-11-22 12:20:51,436 [DEBUG]  Created a new lock for conversation '285'
+2019-11-22 12:20:51,439 [DEBUG]  Creating a new tracker for id '285'.
+2019-11-22 12:20:51,441 [DEBUG]  Received user message '/stop' with intent '{'name': 'stop', 'confidence': 1.0}' and entities '[]'
+2019-11-22 12:20:51,443 [DEBUG]  Logged UserUtterance - tracker now has 2 events
+2019-11-22 12:20:51,454 [DEBUG]  NLU confidence threshold met, confidence of fallback action set to core threshold (0.3).
+2019-11-22 12:20:51,458 [DEBUG]  Current tracker state [None, None, None, None, None, None, None, None, {'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}]
+2019-11-22 12:20:51,463 [DEBUG]  There is a memorised next action '3'
+2019-11-22 12:20:51,465 [DEBUG]  There is no active form
+2019-11-22 12:20:51,466 [DEBUG]  Predicted next action using policy_2_MemoizationPolicy
+2019-11-22 12:20:51,470 [DEBUG]  Predicted next action 'action_deactivate_form' with confidence 1.00.
+2019-11-22 12:20:51,473 [DEBUG]  Action 'action_deactivate_form' ended with events '['Form(None)', 'SlotSet(key: requested_slot, value: None)']'
+2019-11-22 12:20:51,475 [DEBUG]  Current slot values: 
+	Phone_ID: None
+	esi_forge_check_qc_verified_name: None
+	esi_forge_failedqccolorissue: No
+	esi_forge_failedqcdimensionsissue: No
+	esi_forge_failedqcheatissue: No
+	esi_forge_failedqcreasons: None
+	esi_forge_failedqcreasonsfromdate: None
+	esi_forge_failedqcreasonstodate: None
+	esi_forge_issuetype_value: Heat
+	from: None
+	modelNo: None
+	requested_slot: None
+	to: None
+2019-11-22 12:20:51,487 [DEBUG]  NLU confidence threshold met, confidence of fallback action set to core threshold (0.3).
+2019-11-22 12:20:51,488 [DEBUG]  Current tracker state [None, None, None, None, None, None, None, {'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_deactivate_form': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}]
+2019-11-22 12:20:51,492 [DEBUG]  There is a memorised next action '41'
+2019-11-22 12:20:51,493 [DEBUG]  There is no active form
+2019-11-22 12:20:51,493 [DEBUG]  Predicted next action using policy_2_MemoizationPolicy
+2019-11-22 12:20:51,497 [DEBUG]  Predicted next action 'utter_greet' with confidence 1.00.
+2019-11-22 12:20:51,528 [DEBUG]  NLU confidence threshold met, confidence of fallback action set to core threshold (0.3).
+2019-11-22 12:20:51,533 [DEBUG]  Current tracker state [None, None, None, None, None, None, {'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_deactivate_form': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'prev_utter_greet': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}]
+2019-11-22 12:20:51,538 [DEBUG]  There is a memorised next action '42'
+2019-11-22 12:20:51,539 [DEBUG]  There is no active form
+2019-11-22 12:20:51,542 [DEBUG]  Predicted next action using policy_2_MemoizationPolicy
+2019-11-22 12:20:51,544 [DEBUG]  Predicted next action 'utter_greet1' with confidence 1.00.
+2019-11-22 12:20:51,547 [DEBUG]  Action 'utter_greet1' ended with events '['BotUttered(text: How may I help you?, data: {"elements": null, "quick_replies": null, "buttons": null, "attachment": null, "image": null, "custom": null}, metadata: {})']'
+2019-11-22 12:20:51,556 [DEBUG]  NLU confidence threshold met, confidence of fallback action set to core threshold (0.3).
+2019-11-22 12:20:51,560 [DEBUG]  Current tracker state [None, None, None, None, None, {'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_deactivate_form': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'prev_utter_greet': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_utter_greet1': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}]
+2019-11-22 12:20:51,564 [DEBUG]  There is a memorised next action '20'
+2019-11-22 12:20:51,564 [DEBUG]  There is no active form
+2019-11-22 12:20:51,570 [DEBUG]  Predicted next action using policy_2_MemoizationPolicy
+2019-11-22 12:20:51,571 [DEBUG]  Predicted next action 'action_slot_cancel' with confidence 1.00.
+2019-11-22 12:20:51,571 [DEBUG]  Calling action endpoint to run action 'action_slot_cancel'.
+2019-11-22 12:20:53,673 [DEBUG]  Action 'action_slot_cancel' ended with events '['Restarted()']'
+2019-11-22 12:20:53,676 [DEBUG]  Current slot values: 
+	Phone_ID: None
+	esi_forge_check_qc_verified_name: None
+	esi_forge_failedqccolorissue: No
+	esi_forge_failedqcdimensionsissue: No
+	esi_forge_failedqcheatissue: No
+	esi_forge_failedqcreasons: None
+	esi_forge_failedqcreasonsfromdate: None
+	esi_forge_failedqcreasonstodate: None
+	esi_forge_issuetype_value: Heat
+	from: None
+	modelNo: None
+	requested_slot: None
+	to: None
+2019-11-22 12:20:53,688 [DEBUG]  Predicted next action 'action_listen' with confidence 1.00.
+2019-11-22 12:20:53,692 [DEBUG]  Action 'action_listen' ended with events '[]'
+2019-11-22 12:20:53,696 [DEBUG]  Deleted lock for conversation '285' (unused)
+2019-11-22 12:27:01,200 [DEBUG]  Created a new lock for conversation '106'
+2019-11-22 12:27:01,201 [DEBUG]  Creating a new tracker for id '106'.
+2019-11-22 12:27:01,206 [DEBUG]  Received user message '/stop' with intent '{'name': 'stop', 'confidence': 1.0}' and entities '[]'
+2019-11-22 12:27:01,208 [DEBUG]  Logged UserUtterance - tracker now has 2 events
+2019-11-22 12:27:01,218 [DEBUG]  NLU confidence threshold met, confidence of fallback action set to core threshold (0.3).
+2019-11-22 12:27:01,219 [DEBUG]  Current tracker state [None, None, None, None, None, None, None, None, {'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}]
+2019-11-22 12:27:01,223 [DEBUG]  There is a memorised next action '3'
+2019-11-22 12:27:01,225 [DEBUG]  There is no active form
+2019-11-22 12:27:01,226 [DEBUG]  Predicted next action using policy_2_MemoizationPolicy
+2019-11-22 12:27:01,229 [DEBUG]  Predicted next action 'action_deactivate_form' with confidence 1.00.
+2019-11-22 12:27:01,231 [DEBUG]  Action 'action_deactivate_form' ended with events '['Form(None)', 'SlotSet(key: requested_slot, value: None)']'
+2019-11-22 12:27:01,233 [DEBUG]  Current slot values: 
+	Phone_ID: None
+	esi_forge_check_qc_verified_name: None
+	esi_forge_failedqccolorissue: No
+	esi_forge_failedqcdimensionsissue: No
+	esi_forge_failedqcheatissue: No
+	esi_forge_failedqcreasons: None
+	esi_forge_failedqcreasonsfromdate: None
+	esi_forge_failedqcreasonstodate: None
+	esi_forge_issuetype_value: Heat
+	from: None
+	modelNo: None
+	requested_slot: None
+	to: None
+2019-11-22 12:27:01,246 [DEBUG]  NLU confidence threshold met, confidence of fallback action set to core threshold (0.3).
+2019-11-22 12:27:01,250 [DEBUG]  Current tracker state [None, None, None, None, None, None, None, {'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_deactivate_form': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}]
+2019-11-22 12:27:01,253 [DEBUG]  There is a memorised next action '41'
+2019-11-22 12:27:01,255 [DEBUG]  There is no active form
+2019-11-22 12:27:01,257 [DEBUG]  Predicted next action using policy_2_MemoizationPolicy
+2019-11-22 12:27:01,258 [DEBUG]  Predicted next action 'utter_greet' with confidence 1.00.
+2019-11-22 12:27:01,292 [DEBUG]  NLU confidence threshold met, confidence of fallback action set to core threshold (0.3).
+2019-11-22 12:27:01,300 [DEBUG]  Current tracker state [None, None, None, None, None, None, {'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_deactivate_form': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'prev_utter_greet': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}]
+2019-11-22 12:27:01,305 [DEBUG]  There is a memorised next action '42'
+2019-11-22 12:27:01,313 [DEBUG]  There is no active form
+2019-11-22 12:27:01,315 [DEBUG]  Predicted next action using policy_2_MemoizationPolicy
+2019-11-22 12:27:01,316 [DEBUG]  Predicted next action 'utter_greet1' with confidence 1.00.
+2019-11-22 12:27:01,317 [DEBUG]  Action 'utter_greet1' ended with events '['BotUttered(text: How may I help you today?, data: {"elements": null, "quick_replies": null, "buttons": null, "attachment": null, "image": null, "custom": null}, metadata: {})']'
+2019-11-22 12:27:01,327 [DEBUG]  NLU confidence threshold met, confidence of fallback action set to core threshold (0.3).
+2019-11-22 12:27:01,331 [DEBUG]  Current tracker state [None, None, None, None, None, {'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_deactivate_form': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'prev_utter_greet': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'intent_stop': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_utter_greet1': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}]
+2019-11-22 12:27:01,335 [DEBUG]  There is a memorised next action '20'
+2019-11-22 12:27:01,335 [DEBUG]  There is no active form
+2019-11-22 12:27:01,339 [DEBUG]  Predicted next action using policy_2_MemoizationPolicy
+2019-11-22 12:27:01,342 [DEBUG]  Predicted next action 'action_slot_cancel' with confidence 1.00.
+2019-11-22 12:27:01,344 [DEBUG]  Calling action endpoint to run action 'action_slot_cancel'.
+2019-11-22 12:27:03,410 [DEBUG]  Action 'action_slot_cancel' ended with events '['Restarted()']'
+2019-11-22 12:27:03,413 [DEBUG]  Current slot values: 
+	Phone_ID: None
+	esi_forge_check_qc_verified_name: None
+	esi_forge_failedqccolorissue: No
+	esi_forge_failedqcdimensionsissue: No
+	esi_forge_failedqcheatissue: No
+	esi_forge_failedqcreasons: None
+	esi_forge_failedqcreasonsfromdate: None
+	esi_forge_failedqcreasonstodate: None
+	esi_forge_issuetype_value: Heat
+	from: None
+	modelNo: None
+	requested_slot: None
+	to: None
+2019-11-22 12:27:03,423 [DEBUG]  Predicted next action 'action_listen' with confidence 1.00.
+2019-11-22 12:27:03,426 [DEBUG]  Action 'action_listen' ended with events '[]'
+2019-11-22 12:27:03,428 [DEBUG]  Deleted lock for conversation '106' (unused)
+2019-11-22 12:27:17,162 [DEBUG]  Created a new lock for conversation '838'
+2019-11-22 12:27:17,167 [DEBUG]  Creating a new tracker for id '838'.
+2019-11-22 12:27:17,189 [DEBUG]  Received user message 'hi' with intent '{'name': 'greet', 'confidence': 0.9008244276046753}' and entities '[]'
+2019-11-22 12:27:17,192 [DEBUG]  Logged UserUtterance - tracker now has 2 events
+2019-11-22 12:27:17,204 [DEBUG]  NLU confidence threshold met, confidence of fallback action set to core threshold (0.3).
+2019-11-22 12:27:17,205 [DEBUG]  Current tracker state [None, None, None, None, None, None, None, None, {'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'intent_greet': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}]
+2019-11-22 12:27:17,212 [DEBUG]  There is a memorised next action '41'
+2019-11-22 12:27:17,215 [DEBUG]  There is no active form
+2019-11-22 12:27:17,218 [DEBUG]  Predicted next action using policy_2_MemoizationPolicy
+2019-11-22 12:27:17,220 [DEBUG]  Predicted next action 'utter_greet' with confidence 1.00.
+2019-11-22 12:27:17,261 [DEBUG]  NLU confidence threshold met, confidence of fallback action set to core threshold (0.3).
+2019-11-22 12:27:17,266 [DEBUG]  Current tracker state [None, None, None, None, None, None, None, {'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'intent_greet': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'prev_utter_greet': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'intent_greet': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}]
+2019-11-22 12:27:17,274 [DEBUG]  There is a memorised next action '42'
+2019-11-22 12:27:17,274 [DEBUG]  There is no active form
+2019-11-22 12:27:17,278 [DEBUG]  Predicted next action using policy_2_MemoizationPolicy
+2019-11-22 12:27:17,279 [DEBUG]  Predicted next action 'utter_greet1' with confidence 1.00.
+2019-11-22 12:27:17,283 [DEBUG]  Action 'utter_greet1' ended with events '['BotUttered(text: How may I help you today?, data: {"elements": null, "quick_replies": null, "buttons": null, "attachment": null, "image": null, "custom": null}, metadata: {})']'
+2019-11-22 12:27:17,293 [DEBUG]  NLU confidence threshold met, confidence of fallback action set to core threshold (0.3).
+2019-11-22 12:27:17,298 [DEBUG]  Current tracker state [None, None, None, None, None, None, {'slot_esi_forge_issuetype_value_0': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0, 'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'prev_action_listen': 1.0, 'intent_greet': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'prev_utter_greet': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'intent_greet': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}, {'slot_esi_forge_failedqcdimensionsissue_0': 1.0, 'slot_esi_forge_failedqccolorissue_0': 1.0, 'slot_esi_forge_issuetype_value_0': 1.0, 'intent_greet': 1.0, 'prev_utter_greet1': 1.0, 'slot_esi_forge_failedqcheatissue_0': 1.0}]
+2019-11-22 12:27:17,302 [DEBUG]  There is a memorised next action '0'
+2019-11-22 12:27:17,302 [DEBUG]  There is no active form
+2019-11-22 12:27:17,305 [DEBUG]  Predicted next action using policy_2_MemoizationPolicy
+2019-11-22 12:27:17,305 [DEBUG]  Predicted next action 'action_listen' with confidence 1.00.
+2019-11-22 12:27:17,312 [DEBUG]  Action 'action_listen' ended with events '[]'
+2019-11-22 12:27:17,313 [DEBUG]  Deleted lock for conversation '838' (unused)
+2019-11-22 12:28:17,377 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-11-22 12:38:04,408 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-11-22 14:46:34,618 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-11-22 21:08:14,169 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-11-22 21:11:06,112 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-11-22 21:13:36,315 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-11-22 21:17:04,538 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-11-22 21:22:31,264 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-11-22 21:38:42,666 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-11-22 22:44:51,392 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-11-23 05:52:49,482 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-11-23 06:04:00,489 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-11-23 09:06:56,735 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-11-23 09:08:33,566 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-11-23 13:36:10,497 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-11-23 13:40:50,640 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-12-21 22:39:56,827 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-12-21 22:45:17,550 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-12-21 22:47:45,352 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-12-21 23:19:26,744 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-12-21 23:26:20,440 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-12-21 23:27:38,290 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-12-22 08:33:23,685 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-12-22 08:38:01,486 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None
+2019-12-22 10:23:22,154 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+2019-12-22 10:26:06,598 [ERROR]  Exception occurred while handling uri: unknown
+NoneType: None

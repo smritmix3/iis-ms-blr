@@ -1,0 +1,36 @@
+language: en_core_web_md
+
+pipeline:
+- name : "SpacyNLP"
+- name: "WhitespaceTokenizer"
+- name: "RegexFeaturizer"
+- name: "CRFEntityExtractor"
+- name: "EntitySynonymMapper"
+- name: "CountVectorsFeaturizer"
+- name: "EmbeddingIntentClassifier"
+  intent_tokenization_flag: true
+  intent_split_symbol: "+"
+- name: DucklingHTTPExtractor
+  url: http://localhost:8000
+  dimensions:
+    - number
+    - time
+
+policies:
+  # - name: KerasPolicy
+  # - name: MemoizationPolicy
+  # - name: MappingPolicy
+  # - name: "FallbackPolicy"
+  #   nlu_threshold: 0.4
+  #   core_threshold: 0.3
+  #   fallback_action_name: "utter_esi_apologize"
+  - name: KerasPolicy
+    epochs: 2000
+    max_history: 5
+    batch_size: 50
+    validation_split: 0.2
+  - name: TwoStageFallbackPolicy
+    nlu_threshold: 0.8
+  - name: MemoizationPolicy
+    max_history: 10
+  - name: FormPolicy

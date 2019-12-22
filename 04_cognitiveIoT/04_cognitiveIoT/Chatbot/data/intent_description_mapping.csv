@@ -1,0 +1,18 @@
+intent,button
+Esi_QC_Verify, QC Verify
+Esi_QC_Check, QC Count
+Esi_QC_Date , QC Start Date
+Esi_QC_EmployeeDetails, QC Employee Detail
+checkphone_qcdata, Phone QC check
+qc_verified_Or_not, QC verified count
+stop, stop
+phone_id, Phone Id
+esi_forge_failed_qc_reasons, Check failed QC
+esi_forge_failed_qc_reasons_records_list_template, QC failed records
+esi_forge_failed_qc_reasons_total_records_count, Check failed qc reason
+esi_forge_failed_qc_check, Failed QC Id
+esi_forge_failed_qc_reasons_total_records_count_list_template, Failed QC with reason
+esi_forge_failedqcreasons, QC failed records
+esi_forge_get_total_product_count_intent, Total product
+esi_forge_get_completed_and_notcompleted_qc_check_count_intent, Completed QC check
+esi_forge_check_qc_verification_for_particular_product_name_intent, QC Varification Model
